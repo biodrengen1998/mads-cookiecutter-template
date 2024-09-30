@@ -25,6 +25,9 @@ Project_name/
 ├── results/
 │   ├── figures/
 │   └── tables/
+├── reports/
+│   ├── errors/
+│   └── outputs/
 ├── scratch/
 └── scripts/
 ```
